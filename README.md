@@ -15,19 +15,32 @@ Here are the steps to get the development environment up and running:
 
 Clone the repo:
 bash
+
 Copy code
+
 git clone https://github.com/AbdulmajidAbubakar/CHFMarketPlace.git
+
 Navigate into the cloned repository:
+
 bash
+
 Copy code
+
 cd CHFMarketPlace
+
 Install the dependencies:
 Copy code
+
 npm install
+
 Start the development server:
+
 sql
+
 Copy code
+
 npm start
+
 Your application should now be running and accessible at http://localhost:3000.
 
 Built With
